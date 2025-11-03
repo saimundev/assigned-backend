@@ -20,3 +20,6 @@ It provides endpoints for searching, summarizing, and serving legal document dat
 - docker build -t fastapi-app .
 - docker run -p 8000:8000 fastapi-app  
 
+## 🤝 Acknowledgement
+
+Some parts of this project (such as code formatting, mock data generate, documentation writing) were assisted by **ChatGPT (OpenAI)**  
